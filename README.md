@@ -9,7 +9,7 @@ The survey questions will be among the files
 If you want to see the number of professionals filtered by country check out my tablaeu map
 https://public.tableau.com/app/profile/mamdouh6807/viz/SurveyNumberofSpecialistsinDatascienceComputerscienceAcrossCountries/Sheet1
 
-Note: I wanted to make these as interactive dashboards but I wanted to rely on excel for this project to test my skills with it so I just made
-a single dashboard and the rest were pdfs.
+Note: I wanted to make these as interactive dashboards but I wanted to practice my excel not tablaeu for this project.
+Hopefully I am going to upload another project solely dedicated to tablaeu and SQL in the near future; stay tuned.
 
 Thank You for your time
