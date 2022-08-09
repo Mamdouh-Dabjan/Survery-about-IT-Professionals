@@ -1,5 +1,5 @@
 # Survery-about-IT-Professionals
-This project is the summarization of the survey that was conducted by Kaggle to see the most common tool used by IT professionals.
+This project is the summarization of the survey that was conducted by Kaggle to see the most common tools used by IT professionals.
 The link to the data set: https://www.kaggle.com/kaggle-survey-2020
 The steps of this project:
 1) Collect the data from the database and convert it to a usable form using trim,clean,substitute,etc.(I mainly relied on power query for the former)
@@ -11,5 +11,7 @@ https://public.tableau.com/app/profile/mamdouh6807/viz/SurveyNumberofSpecialists
 
 Note: I wanted to make these as interactive dashboards but I wanted to practice my excel not tablaeu for this project.
 Hopefully I am going to upload another project solely dedicated to tablaeu and SQL in the near future; stay tuned.
+
+For any questions contact me at Mamdouh.dabjan@gmail.com
 
 Thank You for your time
