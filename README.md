@@ -7,7 +7,7 @@ The steps of this project:
 3) Create charts using the new data and make each new chart as a pdf
 The survey questions will be among the files
 If you want to see the number of professionals filtered by country check out my tablaeu map
-https://public.tableau.com/app/profile/mamdouh6807/viz/SurveyNumberofSpecialistsinDatascienceComputerscienceAcrossCountries/Sheet1
+https://public.tableau.com/app/profile/mamdouh6807/viz/DataAboutProfessionalsIntheITDepartment/Dashboard1
 
 Note: I wanted to make these as interactive dashboards but I wanted to practice my excel not tablaeu for this project.
 Hopefully I am going to upload another project solely dedicated to tablaeu and SQL in the near future; stay tuned.
